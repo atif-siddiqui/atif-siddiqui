@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [Aznuf: A static e-Commerce website.](http://https://atif-siddiqui.github.io/aznuf/)
+* 🖥️  See my portfolio at [Aznuf: A static e-Commerce website.](https://atif-siddiqui.github.io/aznuf/)
 * ✉️  You can contact me at [masiddiqui1001@gmail.com](mailto:masiddiqui1001@gmail.com)
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on React
